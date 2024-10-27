@@ -7,18 +7,19 @@ I'm raidshadowlegendenjoyer, a 15-year-old developer exploring coding and ethica
 🌐 **About Me**: [emon.freepalestine.team](https://emon.freepalestine.team)
 
 ## 🔧 Skills & Interests
-- **Languages**: Python, Java, JavaScript
-- **Focus**: Discord bots, Minecraft plugins, ethical hacking
-- **Tools**: GitHub, IntelliJ IDEA, Visual Studio Code
+- **Languages & Tools**:
+  <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB">
 
 ## 📌 Notable Projects
 - **[SimpleTeleporation Plugin](https://github.com/raidshadowlegendenjoyer/SimpleTeleporation)** – Easy Minecraft teleportation commands
 - **KarpuzNodes Hosting Site** – Discord-inspired, user-friendly hosting website
 
 ## 📫 Contact
-- **Discord**: MyLittlePonyFan_
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-
+- **Discord**: nomolaer#1234
 ---
 
 Thanks for stopping by! 😊
